@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Подписка на рассылку</string>
+    <string name="textViewName">Имя пользователя</string>
+    <string name="textViewEmail">Электронная почта</string>
+    <string name="plainTextViewName">Name</string>
+    <string name="plainTextViewEmail">Email</string>
+    <string name="okButton">Ок</string>
+    <string name="clearButton">Очистить</string>
+    <string name="textSubscriptin">Подписка на рассылку успешно оформлена для пользователя %s на электронный адрес %s</string>
+
+</resources>
